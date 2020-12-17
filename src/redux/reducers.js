@@ -6,8 +6,6 @@ const user = (state = [], action) => {
     }
 }
 
-// const cars = (state = []) => state
-
 const cars = (state = [], action) => {
     // console.log(action)
     return state
